@@ -1,0 +1,6 @@
+INFO    -  Building documentation... 
+INFO    -  Cleaning site directory 
+[I 170909 16:33:44 server:283] Serving on http://127.0.0.1:8000
+[I 170909 16:33:44 handlers:60] Start watching changes
+[I 170909 16:33:44 handlers:62] Start detecting changes
+[I 170909 16:33:52 handlers:133] Browser Connected: http://localhost:8000/
